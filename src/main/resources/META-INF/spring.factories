@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.digital.common.mq.configure.MqAutoConfiguration
+com.github.raylin.mq.configure.MqAutoConfiguration
